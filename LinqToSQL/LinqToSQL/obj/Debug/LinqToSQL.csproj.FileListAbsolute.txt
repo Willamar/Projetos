@@ -1,0 +1,9 @@
+c:\users\willamar\documents\visual studio 2012\Projects\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe
+c:\users\willamar\documents\visual studio 2012\Projects\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.Form1.resources
+c:\users\willamar\documents\visual studio 2012\Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.Properties.Resources.resources
+c:\users\willamar\documents\visual studio 2012\Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.GenerateResource.Cache
+c:\users\willamar\documents\visual studio 2012\Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.exe
+c:\users\willamar\documents\visual studio 2012\Projects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.pdb
