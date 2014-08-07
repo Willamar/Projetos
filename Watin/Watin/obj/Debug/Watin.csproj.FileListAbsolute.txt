@@ -1,0 +1,12 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\bin\Debug\Watin.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\bin\Debug\Watin.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\bin\Debug\WatiN.Core.dll
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\bin\Debug\WatiN.Core.xml
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\obj\Debug\Watin.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\obj\Debug\Watin.Form1.resources
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\obj\Debug\Watin.Properties.Resources.resources
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\obj\Debug\Watin.csproj.GenerateResource.Cache
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\obj\Debug\Watin.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\obj\Debug\Watin.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\bin\Debug\Interop.SHDocVw.dll
+c:\users\willamar\documents\visual studio 2012\Projects\Watin\Watin\bin\Debug\Microsoft.mshtml.dll
